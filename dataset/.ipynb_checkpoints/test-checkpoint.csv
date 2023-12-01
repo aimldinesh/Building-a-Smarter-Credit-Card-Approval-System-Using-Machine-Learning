@@ -1,0 +1,311 @@
+Ind_ID,GENDER,Car_Owner,Propert_Owner,CHILDREN,Annual_income,Type_Income,EDUCATION,Marital_status,Housing_type,Age,Employed_days,Mobile_phone,Work_Phone,Phone,EMAIL_ID,Type_Occupation,Family_Members,Is_high_risk
+5029028,F,N,Y,0,90000.0,Working,Lower secondary,Single / not married,Rented apartment,-12026.0,-4770,1,0,0,0,Cleaning staff,2,1
+5051097,F,N,N,0,69750.0,Pensioner,Secondary / secondary special,Widow,Municipal apartment,-21986.0,365243,1,0,1,0,,1,0
+5028990,F,N,N,2,81000.0,Working,Lower secondary,Single / not married,House / apartment,-15373.0,-2333,1,0,0,0,Sales staff,3,0
+5145968,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-23018.0,365243,1,0,0,0,,1,0
+5052755,M,N,Y,0,225000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-10570.0,-1175,1,0,0,0,Managers,2,0
+5062137,M,N,Y,1,,Working,Secondary / secondary special,Single / not married,House / apartment,-12947.0,-137,1,0,0,0,Laborers,2,1
+5139951,F,Y,Y,0,121500.0,State servant,Secondary / secondary special,Married,House / apartment,-19988.0,-3231,1,1,0,0,,2,0
+5139321,F,N,Y,0,121500.0,Pensioner,Higher education,Widow,House / apartment,-24231.0,365243,1,0,0,0,,1,0
+5067949,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-18133.0,-3591,1,0,1,1,,1,0
+5010238,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-16507.0,-4331,1,0,0,0,Drivers,2,0
+5021790,F,Y,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,-15021.0,-6879,1,0,0,0,High skill tech staff,4,0
+5112599,F,N,Y,0,103500.0,Working,Secondary / secondary special,Married,House / apartment,-22466.0,-12870,1,1,1,0,Managers,2,0
+5025029,F,N,N,0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-20013.0,365243,1,0,0,0,,2,0
+5095170,M,Y,Y,0,252000.0,Commercial associate,Higher education,Married,House / apartment,-13796.0,-2682,1,0,0,0,Drivers,2,0
+5011032,F,N,Y,1,135000.0,Working,Academic degree,Civil marriage,House / apartment,-17489.0,-7557,1,0,1,0,,3,0
+5053254,F,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-18667.0,-2150,1,1,0,0,Managers,2,1
+5067182,F,N,Y,0,112500.0,Working,Higher education,Married,House / apartment,-11432.0,-820,1,1,0,0,Core staff,2,0
+5066843,F,N,Y,0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-17090.0,365243,1,0,0,0,,2,0
+5050603,M,N,N,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-18327.0,-7288,1,1,0,0,Laborers,2,1
+5053173,F,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-16712.0,-2393,1,0,0,0,Core staff,2,0
+5090335,F,Y,Y,0,144000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-13095.0,-3716,1,1,1,0,Medicine staff,2,0
+5053003,F,Y,Y,0,157500.0,Working,Incomplete higher,Married,House / apartment,-9389.0,-1632,1,1,1,0,,2,0
+5100394,M,N,Y,1,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-12287.0,-3900,1,0,0,0,Core staff,3,0
+5036396,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-13686.0,-1256,1,0,0,0,Cooking staff,2,0
+5028615,,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,With parents,-10681.0,-2152,1,0,1,0,Sales staff,1,0
+5033966,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15103.0,-3154,1,0,0,0,Sales staff,2,0
+5105818,F,N,Y,0,45000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22072.0,365243,1,0,1,0,,2,0
+5135819,F,N,Y,0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-19482.0,-2878,1,0,0,0,Laborers,2,0
+5053143,M,N,Y,1,126000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-12301.0,-140,1,0,1,0,,3,0
+5116304,F,N,Y,0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22655.0,365243,1,0,0,0,,2,1
+5117331,F,Y,Y,0,270000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-15027.0,-2257,1,0,1,0,Sales staff,1,0
+5010881,F,N,Y,0,45000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-20688.0,365243,1,0,1,0,,2,0
+5058267,M,N,N,1,225000.0,Commercial associate,Secondary / secondary special,Married,With parents,-17868.0,-1912,1,0,0,0,Drivers,3,0
+5045992,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15256.0,-4491,1,0,0,0,Laborers,2,0
+5088851,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,-11353.0,-2316,1,0,0,1,Accountants,2,0
+5146467,M,Y,N,0,360000.0,State servant,Higher education,Married,House / apartment,-9983.0,-1923,1,0,0,0,,2,0
+5126321,F,N,N,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-17778.0,-1719,1,1,1,0,High skill tech staff,2,0
+5024386,F,N,N,0,117000.0,Working,Secondary / secondary special,Married,Municipal apartment,-13494.0,-1281,1,0,0,0,Sales staff,2,0
+5096415,F,N,N,0,76500.0,Working,Secondary / secondary special,Married,House / apartment,-16876.0,-97,1,1,0,0,,2,0
+5033496,M,Y,N,1,202500.0,Commercial associate,Higher education,Married,With parents,-9956.0,-444,1,0,0,0,Managers,3,0
+5114438,F,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,-17262.0,-1107,1,1,1,0,Sales staff,3,0
+5117202,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-13530.0,-95,1,0,0,0,Sales staff,1,0
+5105499,F,N,Y,0,202500.0,Working,Higher education,Married,House / apartment,-10669.0,-1495,1,0,0,0,,2,0
+5126294,M,N,N,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-21149.0,-11884,1,1,0,0,Laborers,2,0
+5023831,F,N,Y,2,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-12135.0,-925,1,0,0,0,Sales staff,4,1
+5067019,F,Y,Y,1,247500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-17152.0,-1253,1,0,0,1,Laborers,3,0
+5100098,F,N,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-10851.0,-826,1,0,0,0,,2,0
+5116005,M,Y,Y,1,900000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-16923.0,-2537,1,0,0,0,High skill tech staff,3,0
+5036828,F,N,Y,0,180000.0,Working,Higher education,Married,House / apartment,-19207.0,-4327,1,0,0,0,Sales staff,2,0
+5058348,F,N,Y,0,,Pensioner,Higher education,Separated,House / apartment,-24611.0,365243,1,0,0,0,,1,1
+5099980,M,N,Y,0,90000.0,Working,Secondary / secondary special,Separated,House / apartment,-15059.0,-1069,1,0,0,0,Low-skill Laborers,1,0
+5114427,F,N,N,0,49500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-23753.0,365243,1,0,0,0,,2,0
+5035688,F,Y,Y,0,135000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-16505.0,-8377,1,0,0,0,Laborers,2,0
+5088699,F,Y,Y,0,252000.0,Working,Secondary / secondary special,Married,House / apartment,-17562.0,-1261,1,0,0,0,Medicine staff,2,0
+5146086,M,N,N,0,148500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-14122.0,-1193,1,0,0,1,Laborers,1,0
+5125281,F,N,Y,1,90000.0,Working,Secondary / secondary special,Married,House / apartment,-16280.0,-3694,1,0,0,1,Sales staff,3,0
+5010226,F,Y,Y,1,90000.0,State servant,Secondary / secondary special,Married,House / apartment,-17532.0,-8044,1,0,0,0,Medicine staff,3,0
+5061753,F,N,Y,0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-23035.0,365243,1,0,1,0,,2,0
+5041307,F,Y,Y,0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-23118.0,365243,1,0,1,0,,2,0
+5029191,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,,-2959,1,0,0,0,Sales staff,2,0
+5068888,F,N,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-23537.0,-4888,1,0,0,0,Medicine staff,2,0
+5041869,M,Y,N,0,99000.0,State servant,Secondary / secondary special,Married,House / apartment,-19433.0,-521,1,1,1,0,Core staff,2,0
+5045850,F,Y,Y,2,315000.0,Commercial associate,Higher education,Married,With parents,-12621.0,-1327,1,0,0,0,Managers,4,0
+5054414,M,N,N,0,225000.0,Commercial associate,Higher education,Married,With parents,-13021.0,-5082,1,1,0,0,Managers,2,0
+5009074,F,Y,Y,1,450000.0,State servant,Higher education,Married,House / apartment,-17726.0,-708,1,0,1,1,Core staff,3,0
+5037202,F,Y,Y,1,112500.0,Working,Higher education,Married,House / apartment,-9032.0,-420,1,0,0,0,Managers,3,0
+5033447,F,Y,N,0,112500.0,Commercial associate,Higher education,Married,House / apartment,-10828.0,-657,1,0,0,0,Core staff,2,0
+5067982,M,Y,Y,0,153000.0,Working,Higher education,Separated,With parents,-20013.0,-7640,1,0,0,1,Managers,1,0
+5142649,M,Y,N,0,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-17575.0,-2234,1,0,1,0,Laborers,2,0
+5023186,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-17235.0,-2700,1,0,1,0,Core staff,2,0
+5033439,M,Y,N,2,270000.0,Working,Higher education,Married,House / apartment,-11723.0,-3002,1,0,1,0,,4,0
+5050671,M,N,N,0,171000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-11610.0,-166,1,1,1,0,High skill tech staff,1,1
+5058532,M,N,N,0,391500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,,-508,1,0,0,0,Sales staff,1,1
+5010032,M,Y,Y,0,85500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22121.0,365243,1,0,1,0,,2,0
+5062407,F,N,Y,0,103500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-24094.0,365243,1,0,1,0,,1,0
+5023389,M,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House / apartment,-13536.0,-2092,1,0,0,0,Core staff,4,0
+5038510,F,N,Y,0,103500.0,Working,Incomplete higher,Married,House / apartment,-11855.0,-4583,1,0,0,0,Laborers,2,0
+5126543,F,Y,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-10238.0,-3453,1,0,0,0,Laborers,2,0
+5145817,F,N,Y,0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22011.0,365243,1,0,0,0,,2,1
+5033608,F,N,N,0,67500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-18989.0,-171,1,0,0,0,Laborers,2,0
+5118477,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-17386.0,-888,1,0,0,0,Laborers,2,0
+5053182,M,Y,Y,0,207000.0,Pensioner,Higher education,Married,House / apartment,-24312.0,365243,1,0,0,0,,2,0
+5135938,F,Y,N,2,315000.0,Working,Secondary / secondary special,Married,House / apartment,-15621.0,-3792,1,0,0,0,Sales staff,4,0
+5105395,F,N,Y,0,135000.0,Working,Incomplete higher,Single / not married,House / apartment,-10932.0,-575,1,0,0,0,Secretaries,1,0
+5065705,M,Y,Y,0,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-17454.0,365243,1,0,1,0,,1,0
+5088055,F,N,Y,0,216000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-17937.0,-3054,1,0,0,0,Medicine staff,1,0
+5092245,F,N,N,0,103500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22111.0,365243,1,0,0,0,,2,1
+5125775,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-23360.0,-469,1,0,0,0,,2,0
+5091792,M,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,-15216.0,-2969,1,1,0,0,Low-skill Laborers,3,0
+5116373,F,N,N,1,90000.0,Working,Secondary / secondary special,Married,With parents,-10092.0,-976,1,0,0,0,,3,0
+5021584,F,N,N,1,40500.0,State servant,Secondary / secondary special,Married,Rented apartment,-13052.0,-1952,1,0,0,0,Cooking staff,3,0
+5100027,F,Y,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-19317.0,-11542,1,0,0,0,Medicine staff,2,0
+5090861,F,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-19765.0,-2168,1,0,0,0,Sales staff,2,0
+5053918,F,Y,N,0,225000.0,Working,Higher education,Civil marriage,House / apartment,-14438.0,-2433,1,0,0,0,Managers,2,0
+5097170,M,Y,Y,0,180000.0,State servant,Secondary / secondary special,Married,House / apartment,-9570.0,-2620,1,0,0,0,Drivers,2,0
+5143374,F,N,N,0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-24001.0,365243,1,0,0,0,,2,0
+5068340,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,-10101.0,-505,1,1,1,0,Laborers,2,0
+5135946,M,N,Y,0,270000.0,Working,Higher education,Single / not married,House / apartment,-15222.0,-3153,1,0,1,0,Laborers,1,0
+5023914,F,N,Y,2,184500.0,Working,Secondary / secondary special,Married,House / apartment,-9912.0,-1707,1,1,1,0,Sales staff,4,0
+5058352,F,N,Y,0,99000.0,Pensioner,Higher education,Separated,House / apartment,-24611.0,365243,1,0,0,0,,1,1
+5069227,F,Y,Y,0,,Commercial associate,Secondary / secondary special,Married,House / apartment,-17330.0,-962,1,0,1,0,Sales staff,2,0
+5149402,F,N,N,1,135000.0,Commercial associate,Secondary / secondary special,Married,With parents,-13689.0,-1172,1,0,0,0,Sales staff,3,0
+5021967,F,N,N,1,103500.0,Working,Secondary / secondary special,Married,House / apartment,-11720.0,-1191,1,0,0,0,Sales staff,3,0
+5061773,F,N,Y,0,157500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-21049.0,365243,1,0,0,0,,1,0
+5041980,F,N,N,0,211500.0,Commercial associate,Higher education,Married,With parents,-14636.0,-4690,1,1,1,0,Laborers,2,0
+5068511,F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15875.0,-2758,1,1,1,0,Core staff,2,0
+5137247,F,N,N,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-17355.0,-3273,1,1,1,0,Secretaries,2,0
+5028737,M,N,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-12483.0,-4039,1,0,0,0,Managers,2,0
+5126809,M,N,Y,1,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-10676.0,-2326,1,0,1,1,Laborers,3,0
+5022833,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-17262.0,-1617,1,0,0,0,Core staff,2,0
+5126457,F,N,N,0,94500.0,Working,Higher education,Married,House / apartment,-16825.0,-196,1,0,0,0,Security staff,2,0
+5028580,M,N,N,0,540000.0,Commercial associate,Higher education,Married,House / apartment,-19996.0,-691,1,0,0,0,Managers,2,1
+5148934,M,Y,N,0,108000.0,Working,Secondary / secondary special,Married,Office apartment,-17209.0,-1081,1,0,0,0,Security staff,2,1
+5105614,F,Y,Y,2,135000.0,Working,Higher education,Married,House / apartment,-12334.0,-460,1,0,0,0,Accountants,4,0
+5046191,M,Y,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,-17280.0,-565,1,1,0,0,Managers,4,0
+5113082,F,N,Y,1,112500.0,Working,Higher education,Single / not married,House / apartment,-15303.0,-1131,1,0,0,0,Core staff,2,0
+5113180,M,Y,Y,0,135000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-17538.0,-613,1,0,0,0,Core staff,2,0
+5067926,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-22743.0,365243,1,0,0,0,,1,0
+5118541,F,N,Y,0,72000.0,Working,Secondary / secondary special,Married,House / apartment,-18132.0,-1039,1,0,1,0,Laborers,2,1
+5114138,F,N,N,2,180000.0,State servant,Secondary / secondary special,Married,Office apartment,-11176.0,-2904,1,1,0,0,Laborers,4,0
+5116302,F,N,Y,0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22655.0,365243,1,0,0,0,,2,1
+5051050,M,Y,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-22407.0,-2174,1,0,0,0,Laborers,2,0
+5028984,F,N,Y,0,193500.0,Working,Secondary / secondary special,Separated,House / apartment,-19063.0,-2213,1,1,1,1,Laborers,1,0
+5033574,F,Y,Y,1,,Working,Secondary / secondary special,Married,House / apartment,-14222.0,-141,1,1,1,0,Cooking staff,3,0
+5090793,F,N,Y,0,247500.0,Working,Higher education,Married,House / apartment,-14020.0,-3503,1,0,1,0,Core staff,2,0
+5096796,M,Y,Y,0,337500.0,Working,Higher education,Separated,House / apartment,-13188.0,-584,1,0,0,0,Laborers,1,0
+5118268,M,Y,N,1,360000.0,State servant,Secondary / secondary special,Married,House / apartment,-11294.0,-3536,1,0,1,0,Drivers,3,0
+5125763,M,Y,N,1,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-13030.0,-1626,1,0,1,0,Laborers,3,1
+5091630,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-19431.0,-6226,1,0,0,0,High skill tech staff,2,0
+5085768,M,Y,Y,1,405000.0,State servant,Higher education,Married,House / apartment,-11532.0,-4917,1,0,0,0,Managers,3,0
+5115797,F,N,Y,1,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-14578.0,-7346,1,0,0,0,Laborers,2,0
+5066915,M,Y,Y,0,180000.0,Working,Higher education,Married,With parents,-11089.0,-1467,1,0,0,0,Laborers,2,0
+5045069,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-10344.0,-2533,1,0,0,0,Laborers,2,0
+5100220,M,Y,Y,2,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15182.0,-6123,1,0,0,0,Drivers,4,0
+5149433,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Widow,House / apartment,-19584.0,-2633,1,0,0,0,,1,0
+5118538,F,N,Y,1,81000.0,Working,Secondary / secondary special,Married,Municipal apartment,-15749.0,-6367,1,1,1,0,Cleaning staff,3,0
+5068548,M,Y,Y,0,117000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-19351.0,-1023,1,0,0,0,Laborers,2,0
+5091016,F,N,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,-14284.0,-4267,1,0,0,0,Cooking staff,3,0
+5078842,F,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,With parents,-10532.0,-117,1,0,0,0,Private service staff,3,0
+5088501,M,Y,Y,0,72000.0,Working,Higher education,Married,House / apartment,-21897.0,-619,1,0,0,0,Security staff,2,0
+5117392,F,N,N,0,135000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-17615.0,-339,1,0,0,0,Accountants,1,0
+5105535,M,Y,Y,0,126000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-20309.0,365243,1,0,1,0,,1,0
+5126527,F,N,N,0,225000.0,State servant,Secondary / secondary special,Married,With parents,-12269.0,-196,1,0,1,0,Medicine staff,2,0
+5149980,F,N,Y,1,405000.0,State servant,Higher education,Married,House / apartment,-12732.0,-4520,1,0,0,0,Core staff,3,0
+5028547,M,Y,N,1,292500.0,Working,Secondary / secondary special,Separated,House / apartment,-12692.0,-1056,1,0,1,0,Laborers,2,0
+5087880,F,N,N,0,234000.0,State servant,Higher education,Civil marriage,House / apartment,-21967.0,-5215,1,0,0,1,Core staff,2,0
+5046324,F,N,Y,1,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-15466.0,-2269,1,0,1,0,Low-skill Laborers,3,1
+5116163,F,N,Y,2,90000.0,Working,Secondary / secondary special,Married,House / apartment,-9899.0,-320,1,0,0,0,Security staff,4,0
+5021490,M,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-10682.0,-609,1,0,1,0,Sales staff,1,0
+5137385,F,N,N,0,112500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,-23272.0,365243,1,0,1,0,,2,0
+5041535,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-19819.0,-1463,1,0,1,0,Laborers,1,0
+5025047,F,Y,N,3,112500.0,Working,Secondary / secondary special,Married,House / apartment,-11731.0,-3776,1,1,1,0,,5,0
+5115606,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-14523.0,-3420,1,0,0,0,Core staff,2,1
+5025791,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-18506.0,-3630,1,0,0,0,Core staff,2,0
+5056237,F,N,Y,0,40500.0,Working,Secondary / secondary special,Married,House / apartment,-12729.0,-4936,1,1,0,0,Cleaning staff,2,0
+5096318,M,Y,N,0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-9517.0,-158,1,0,0,0,Core staff,1,0
+5009195,F,N,N,0,292500.0,State servant,Secondary / secondary special,Married,House / apartment,-20953.0,-8684,1,1,1,0,Accountants,2,0
+5126311,M,N,N,0,180000.0,Working,Incomplete higher,Civil marriage,With parents,-7705.0,-288,1,1,0,1,Core staff,2,0
+5087944,F,N,Y,0,72000.0,Working,Secondary / secondary special,Widow,House / apartment,-19923.0,-2078,1,1,1,0,Cleaning staff,1,0
+5106118,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,-13467.0,-393,1,0,0,0,Core staff,3,0
+5065462,F,N,N,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-19004.0,-1570,1,0,0,0,,2,1
+5065342,F,N,Y,0,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22481.0,365243,1,0,1,0,,2,0
+5054625,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-22034.0,365243,1,0,0,0,,1,0
+5079075,F,N,Y,0,216000.0,Working,Secondary / secondary special,Married,House / apartment,-15569.0,-1639,1,1,0,0,Core staff,2,0
+5065798,F,N,Y,0,44550.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22911.0,365243,1,0,0,0,,2,0
+5148812,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22416.0,365243,1,0,0,0,,2,0
+5116046,F,Y,Y,0,144000.0,Working,Secondary / secondary special,Married,House / apartment,-13455.0,-2051,1,0,0,0,Core staff,2,0
+5021310,M,N,Y,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-16896.0,-248,1,0,0,0,Laborers,2,1
+5053117,M,Y,N,1,270000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-13534.0,-1420,1,0,0,0,,3,0
+5126101,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-21042.0,365243,1,0,1,0,,2,0
+5116714,F,N,N,0,135000.0,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-19124.0,-670,1,0,0,0,,1,0
+5045537,M,Y,N,2,225000.0,State servant,Higher education,Married,With parents,-10937.0,-1539,1,0,0,0,High skill tech staff,4,0
+5053637,F,N,N,0,225000.0,Pensioner,Higher education,Separated,House / apartment,-21944.0,365243,1,0,0,0,,1,0
+5116633,F,N,Y,0,135000.0,Pensioner,Higher education,Single / not married,House / apartment,-22501.0,365243,1,0,0,0,,1,0
+5112966,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-18805.0,-10688,1,0,1,0,,2,0
+5125471,M,Y,Y,1,450000.0,Commercial associate,Higher education,Married,House / apartment,-17437.0,-1748,1,0,0,0,,3,0
+5118580,F,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-13052.0,-1741,1,0,0,0,Laborers,2,0
+5024636,F,N,Y,0,,Working,Secondary / secondary special,Married,House / apartment,-19922.0,-1128,1,0,0,0,,2,0
+5023706,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-17733.0,-5622,1,0,1,0,Laborers,2,0
+5143560,M,N,N,2,202500.0,Working,Secondary / secondary special,Married,With parents,-10954.0,-745,1,0,0,0,Drivers,4,0
+5148748,F,Y,Y,1,135000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-11469.0,-686,1,0,1,0,,3,0
+5046415,M,Y,Y,0,270000.0,Working,Higher education,Married,House / apartment,-14466.0,-1569,1,0,1,0,,2,0
+5029544,F,Y,Y,1,133650.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-14596.0,-1965,1,0,0,0,,3,0
+5137229,M,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-14084.0,-2696,1,1,0,0,Drivers,2,0
+5065704,M,Y,Y,0,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-17454.0,365243,1,0,1,0,,1,0
+5115921,M,Y,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15344.0,-314,1,0,0,0,Drivers,2,0
+5022275,M,Y,Y,0,131400.0,Pensioner,Secondary / secondary special,Married,House / apartment,-23646.0,365243,1,0,0,0,,2,0
+5105560,F,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-16817.0,-4410,1,0,0,1,Sales staff,2,0
+5113006,M,Y,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,-19584.0,-2199,1,0,0,0,Laborers,3,0
+5052877,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-17915.0,-3366,1,0,0,0,Drivers,2,1
+5045513,M,Y,N,1,180000.0,Working,Secondary / secondary special,Married,House / apartment,-11498.0,-4491,1,0,0,0,,3,0
+5089626,F,N,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,-16188.0,-309,1,1,1,1,Sales staff,2,0
+5112833,F,N,Y,1,90000.0,Working,Secondary / secondary special,Separated,With parents,-13200.0,-1017,1,0,1,1,Sales staff,2,0
+5061896,M,N,Y,1,292500.0,State servant,Higher education,Married,House / apartment,-16833.0,-3515,1,0,0,1,Core staff,3,0
+5146296,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-18029.0,-3902,1,1,0,0,Security staff,2,0
+5045895,F,N,Y,0,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-23286.0,365243,1,0,0,0,,1,1
+5149946,F,N,Y,0,180000.0,Working,Higher education,Married,House / apartment,-22228.0,-686,1,1,1,0,High skill tech staff,2,0
+5022803,F,Y,Y,0,202500.0,Working,Higher education,Widow,House / apartment,-11998.0,-1497,1,0,0,0,Managers,1,0
+5115957,F,Y,Y,0,180000.0,Working,Secondary / secondary special,Widow,House / apartment,-15494.0,-4304,1,0,0,0,Sales staff,1,0
+5036936,F,N,Y,0,157500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-22362.0,365243,1,0,0,0,,1,0
+5096527,F,N,N,0,135000.0,Working,Secondary / secondary special,Widow,Co-op apartment,-20012.0,-584,1,0,0,0,Core staff,1,1
+5087994,M,Y,Y,1,180000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-15547.0,-6645,1,0,0,0,,3,0
+5021693,M,Y,Y,2,337500.0,Working,Incomplete higher,Married,House / apartment,-12418.0,-1678,1,0,1,0,Laborers,4,0
+5105056,M,Y,N,0,,Commercial associate,Higher education,Single / not married,Municipal apartment,-11528.0,-606,1,0,1,1,High skill tech staff,1,1
+5025181,F,N,N,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-22829.0,-2558,1,0,0,0,High skill tech staff,1,0
+5114643,F,Y,N,0,247500.0,Working,Secondary / secondary special,Separated,House / apartment,-13546.0,-2142,1,0,0,0,Laborers,1,0
+5051061,F,N,N,2,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-11945.0,-1323,1,0,1,0,,4,0
+5092242,F,N,N,0,117000.0,Working,Secondary / secondary special,Married,House / apartment,-20754.0,-2330,1,0,0,0,,2,0
+5090954,F,N,N,0,270000.0,State servant,Secondary / secondary special,Separated,House / apartment,-19363.0,-12332,1,0,1,1,Medicine staff,1,0
+5100010,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,,-918,1,1,1,0,Laborers,2,0
+5113976,M,Y,N,0,270000.0,Working,Incomplete higher,Married,House / apartment,-11955.0,-893,1,1,1,1,Laborers,2,0
+5091737,F,Y,Y,0,243000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-14716.0,-2057,1,0,0,0,Sales staff,1,0
+5117413,F,N,N,0,81000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-22279.0,365243,1,0,1,0,,1,1
+5067444,F,Y,Y,0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22880.0,365243,1,0,0,0,,2,0
+5044594,M,N,Y,0,67500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-22351.0,365243,1,0,1,0,,1,0
+5009941,F,N,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,-10710.0,-2351,1,0,0,0,Sales staff,4,0
+5009845,M,Y,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-15901.0,-130,1,1,0,0,Security staff,2,0
+5024666,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-14425.0,-4568,1,1,1,0,Laborers,2,0
+5054228,F,N,N,2,180000.0,Working,Secondary / secondary special,Married,House / apartment,-11515.0,-89,1,1,0,0,Managers,4,0
+5100461,M,Y,Y,1,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-12417.0,-2499,1,0,0,0,High skill tech staff,3,0
+5050852,M,N,N,0,180000.0,Commercial associate,Higher education,Single / not married,House / apartment,-9488.0,-1505,1,0,0,0,High skill tech staff,1,0
+5065335,M,N,Y,0,202500.0,Commercial associate,Lower secondary,Married,Rented apartment,-9766.0,-1935,1,0,1,0,Sales staff,2,0
+5009000,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-9927.0,-828,1,0,0,0,Drivers,2,0
+5139729,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-20463.0,-2319,1,0,0,0,Cleaning staff,2,0
+5062670,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,-14863.0,-4407,1,0,0,0,Managers,3,0
+5036881,F,Y,Y,0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22471.0,365243,1,0,0,0,,2,0
+5033453,F,N,N,0,135000.0,Working,Higher education,Single / not married,House / apartment,-10749.0,-2394,1,0,0,0,Laborers,1,1
+5046398,F,N,Y,0,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-24216.0,365243,1,0,0,0,,1,0
+5062031,F,Y,Y,0,225000.0,Working,Higher education,Single / not married,House / apartment,-9688.0,-593,1,0,1,1,,1,0
+5089737,F,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-19010.0,-6761,1,1,1,0,Cleaning staff,2,0
+5024592,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,With parents,-8893.0,-1615,1,1,0,0,Drivers,2,0
+5038932,F,N,Y,0,94500.0,Commercial associate,Higher education,Separated,House / apartment,-14548.0,-6317,1,0,1,0,Medicine staff,1,0
+5061076,M,Y,N,0,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-14926.0,-3242,1,1,0,0,,2,0
+5090942,M,N,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-13336.0,-1436,1,0,0,0,Low-skill Laborers,2,0
+5114114,M,Y,N,0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,-17054.0,-712,1,0,1,0,Security staff,1,0
+5028907,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-9963.0,-1876,1,0,0,0,Sales staff,2,0
+5052963,M,Y,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-9984.0,-2606,1,0,0,0,Laborers,2,0
+5065477,M,N,N,1,148500.0,Working,Secondary / secondary special,Married,House / apartment,-13574.0,-109,1,0,0,0,Laborers,3,0
+5126121,F,Y,N,0,72000.0,Working,Secondary / secondary special,Married,House / apartment,-15185.0,-227,1,1,1,0,Medicine staff,2,0
+5148897,M,N,Y,0,90900.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22233.0,365243,1,0,1,0,,2,0
+5146005,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-10177.0,-189,1,0,0,1,Managers,1,1
+5038619,F,N,N,0,103500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-24346.0,365243,1,0,0,0,,2,0
+5145694,M,Y,Y,0,225000.0,Working,Higher education,Single / not married,With parents,-9444.0,-663,1,1,1,0,,1,0
+5023563,F,N,Y,0,202500.0,Working,Secondary / secondary special,Widow,House / apartment,-17782.0,-9975,1,0,0,0,Core staff,1,0
+5091795,F,Y,N,1,90000.0,Working,Secondary / secondary special,Married,House / apartment,-15179.0,-991,1,0,0,0,Laborers,3,0
+5010202,M,Y,Y,0,135000.0,Working,Lower secondary,Married,With parents,-9981.0,-1866,1,0,0,1,Laborers,2,0
+5088161,F,N,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-12922.0,-923,1,0,0,0,Core staff,1,0
+5118225,M,Y,N,0,225000.0,Working,Secondary / secondary special,Civil marriage,Office apartment,-20858.0,-3110,1,0,0,0,Laborers,2,0
+5139892,F,N,Y,0,112500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-18484.0,-6033,1,0,1,0,Medicine staff,2,0
+5143046,M,Y,N,2,360000.0,Working,Secondary / secondary special,Married,House / apartment,-16030.0,-2540,1,1,0,0,Drivers,4,0
+5028446,F,Y,Y,0,162000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-18071.0,-2822,1,0,0,0,Laborers,1,0
+5097169,F,N,N,0,90000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-10731.0,-885,1,0,0,0,Sales staff,1,0
+5067638,F,N,Y,0,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-22922.0,365243,1,0,1,0,,1,0
+5137033,M,Y,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,-14301.0,-200,1,0,1,0,Laborers,3,0
+5046379,F,N,N,0,180000.0,Working,Incomplete higher,Married,House / apartment,-19558.0,-1904,1,0,0,0,Laborers,2,0
+5023147,F,N,N,0,112500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-21135.0,365243,1,0,0,0,,1,0
+5054525,F,N,N,2,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-16611.0,-8369,1,0,0,0,,4,1
+5139823,M,N,Y,0,108000.0,Working,Secondary / secondary special,Married,House / apartment,-15997.0,-7341,1,1,1,0,Laborers,2,0
+5051008,F,N,N,1,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-10448.0,-3392,1,1,1,1,Realty agents,3,0
+5142691,M,Y,N,2,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-14038.0,-6558,1,1,1,0,Core staff,4,0
+5074739,M,N,Y,1,225000.0,Working,Higher education,Married,House / apartment,-13198.0,-3690,1,0,0,0,Core staff,3,0
+5066817,F,Y,N,1,360000.0,Working,Higher education,Widow,House / apartment,-16480.0,-4023,1,0,0,1,Managers,2,0
+5132340,F,N,Y,2,198000.0,Commercial associate,Incomplete higher,Separated,House / apartment,-15646.0,-2811,1,0,0,0,,3,0
+5046126,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-20301.0,-3092,1,1,1,0,Managers,2,0
+5067643,F,N,Y,0,171000.0,Pensioner,Higher education,Married,House / apartment,-19961.0,365243,1,0,0,0,,2,0
+5126562,F,N,N,0,450000.0,Working,Higher education,Married,House / apartment,-11082.0,-3361,1,0,0,0,Sales staff,2,0
+5009567,M,Y,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-15153.0,-3143,1,1,1,0,Laborers,2,0
+5033788,F,N,Y,1,315000.0,Working,Higher education,Separated,House / apartment,-15738.0,-4766,1,1,1,0,Private service staff,2,0
+5068747,F,N,N,0,157500.0,Working,Higher education,Civil marriage,With parents,-13231.0,-201,1,0,0,0,Accountants,2,0
+5126518,M,Y,N,0,157500.0,Working,Higher education,Married,House / apartment,-20516.0,-2265,1,0,1,0,Laborers,2,0
+5058408,M,Y,Y,0,247500.0,Working,Higher education,Married,House / apartment,-12843.0,-2609,1,0,0,0,Managers,2,0
+5091651,F,Y,Y,1,252000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-10707.0,-747,1,0,0,0,,2,0
+5139658,F,N,Y,0,157500.0,Pensioner,Lower secondary,Married,House / apartment,-23483.0,365243,1,0,0,0,,2,0
+5021293,F,Y,Y,1,180000.0,Commercial associate,Higher education,Married,House / apartment,-11901.0,-183,1,0,0,1,Core staff,3,0
+5052620,M,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15988.0,-1994,1,0,1,0,High skill tech staff,3,0
+5023719,F,Y,Y,0,175500.0,Pensioner,Higher education,Married,House / apartment,-22077.0,365243,1,0,1,0,,2,0
+5149039,F,N,Y,2,270000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-11008.0,-3697,1,0,0,0,Laborers,4,0
+5090126,M,Y,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-13805.0,-1557,1,0,0,0,Laborers,1,0
+5068692,M,N,Y,0,148500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-11819.0,-962,1,0,0,0,Laborers,1,0
+5135530,F,Y,Y,0,99000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-21014.0,365243,1,0,0,0,,2,0
+5066458,F,Y,Y,0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,,-1406,1,0,0,0,Laborers,1,0
+5022063,F,N,Y,0,180000.0,Pensioner,Higher education,Married,House / apartment,-20135.0,365243,1,0,1,0,,2,0
+5067003,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-18752.0,-11906,1,0,1,0,Laborers,2,0
+5111159,F,Y,Y,1,81000.0,Working,Higher education,Married,House / apartment,-10648.0,-1393,1,1,1,0,Core staff,3,0
+5037254,M,N,N,0,166500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8401.0,-450,1,0,0,1,Laborers,1,0
+5116478,M,Y,Y,2,450000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-13383.0,-489,1,0,1,0,Drivers,4,0
+5118617,F,N,N,0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-15770.0,-5209,1,0,0,0,Sales staff,1,0
+5143362,F,N,Y,0,126000.0,Working,Secondary / secondary special,Married,House / apartment,-22811.0,-2234,1,1,1,0,High skill tech staff,2,0
+5116606,M,Y,Y,0,180000.0,Working,Incomplete higher,Married,House / apartment,-17115.0,-4599,1,0,1,0,Laborers,2,0
+5053642,M,N,N,0,360000.0,Commercial associate,Higher education,Married,House / apartment,-20354.0,-1823,1,0,1,0,Managers,2,0
+5054522,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,-10014.0,-2311,1,0,0,0,,3,0
+5143314,M,N,Y,0,114750.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-21268.0,365243,1,0,0,0,,1,0
+5090039,M,N,N,1,225000.0,Working,Higher education,Married,House / apartment,-13747.0,-6273,1,0,0,0,Core staff,3,0
+5067506,M,N,Y,0,180000.0,Working,Lower secondary,Civil marriage,House / apartment,-13024.0,-2191,1,0,0,0,Managers,2,0
+5100133,M,Y,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,-13955.0,-1891,1,0,0,0,Drivers,4,0
+5145970,F,N,Y,0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-23018.0,365243,1,0,0,0,,1,0
+5053711,F,Y,N,2,157500.0,Commercial associate,Incomplete higher,Married,House / apartment,-12857.0,-1399,1,0,0,1,,4,0
+5079057,M,Y,N,0,121500.0,Working,Secondary / secondary special,Married,House / apartment,-14869.0,-6904,1,0,1,0,Laborers,2,0
+5149353,M,Y,Y,0,,Commercial associate,Higher education,Married,House / apartment,-12208.0,-3273,1,0,0,0,Accountants,2,0
+5135841,F,N,Y,1,36000.0,Working,Secondary / secondary special,Married,House / apartment,-12417.0,-1113,1,0,1,0,Core staff,3,0
+5052882,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-17915.0,-3366,1,0,0,0,Drivers,2,1
+5062106,M,Y,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-19008.0,-3607,1,0,0,0,Managers,2,0
+5068807,M,Y,Y,1,112500.0,Working,Higher education,Married,House / apartment,-11809.0,-536,1,0,0,1,Accountants,3,0
+5135446,F,N,Y,1,225000.0,Working,Secondary / secondary special,Married,With parents,-10035.0,-170,1,0,0,0,Cleaning staff,3,0
+5028612,M,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,With parents,-10681.0,-2152,1,0,1,0,Sales staff,1,0
+5078805,F,N,Y,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,-18927.0,-2978,1,0,0,0,High skill tech staff,2,0
+5029529,M,Y,Y,0,112500.0,Pensioner,Lower secondary,Married,House / apartment,-21719.0,365243,1,0,1,0,,2,0
+5146002,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-10177.0,-189,1,0,0,1,Managers,1,0
+5062713,F,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,-14510.0,-3805,1,0,0,0,Core staff,3,0
+5062745,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-15035.0,-1128,1,0,1,0,Cleaning staff,2,0

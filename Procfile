@@ -1,0 +1,1 @@
+web: streamlit run credit_card_approval_deploy.py
