@@ -472,7 +472,15 @@ else:
 
 
 # Load the model
-model = joblib.load('gradient_boosting_model.sav')
+import pickle
+
+# Specify the file path where the model is saved
+model_file_path = 'gradient_boosting_model.sav'
+
+# Open the file in binary mode ('rb') and load the model
+with open(model_file_path, 'rb') as file:
+    model = pickle.load(file)
+
 
 #Function to make predictions
 def make_prediction():
