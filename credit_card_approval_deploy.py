@@ -472,7 +472,7 @@ else:
 
 
 # Load the model
-model = joblib.load('saved_models/gradient_boosting/gradient_boosting_model.sav')
+model = joblib.load('gradient_boosting_model.sav')
 
 #Function to make predictions
 def make_prediction():
