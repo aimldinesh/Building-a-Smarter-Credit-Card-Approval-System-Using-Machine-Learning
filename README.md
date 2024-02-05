@@ -12,7 +12,7 @@ My model achieved an accuracy of 88.48%, potentially improving lenders' ability 
 
 
 ## Here We follow the Following Steps:
-+ We will start with exploratory data analysis(EDA)
++ Exploratory data analysis(EDA)
 + Feature engineering
 + Feature selection
 + Data preprocessing
