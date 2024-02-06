@@ -242,3 +242,12 @@ Min-Max Scaling:
 + https://preditct-credit-card-appoval.onrender.com/
 + https://deploypredictcreditcardapproval.streamlit.app/
 
+## Technologies Used:
++ Python
++ Machine learning
++ Scikit-learn
++ NumPy
++ Pandas
++ Streamlit Share
++ Render
+
