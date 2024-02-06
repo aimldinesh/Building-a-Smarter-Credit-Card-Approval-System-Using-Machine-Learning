@@ -11,6 +11,7 @@ My model achieved an accuracy of 88.48%, potentially improving lenders' ability 
 
 ![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/Capture1.PNG)
 ![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/Capture2.PNG)
+![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/gb_roc_curve.PNG)
 
 ## Here We follow the Following Steps:
 + Exploratory data analysis(EDA)
