@@ -9,7 +9,7 @@ One key finding from my data analysis was that annual income, family members, an
 ## Impact and Skills:
 My model achieved an accuracy of 88.48%, potentially improving lenders' ability to assess creditworthiness efficiently. This project allowed me to showcase my skills in data analysis, machine learning, and feature engineering. I also learned valuable lessons about ethical considerations in AI models and the importance of tailoring them to specific business contexts."
 
-
+![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/Capture1.PNG)
 
 ## Here We follow the Following Steps:
 + Exploratory data analysis(EDA)
