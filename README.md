@@ -221,7 +221,6 @@ Min-Max Scaling:
 + When the economy is thriving, people experience a sense of prosperity and employment. Typically, money is inexpensive, and the risk of default is minimal due to economic stability and low unemployment. Financial institutions can manage the risk of default, and therefore, they are not overly stringent in granting credit. The institution can accommodate some high-risk clients as long as the majority of credit card holders are reliable clients, namely those who consistently repay their credit on time and in full. In such a scenario, achieving a high recall (sensitivity) is considered.
 ### When precision considered?
 + When the economy is in decline, individuals face job losses and financial setbacks, often stemming from the stock market and other investment platforms. Many people find it challenging to fulfill their financial responsibilities. Consequently, financial institutions adopt a more conservative approach in extending credit or loans. The institution cannot risk providing credit to numerous clients who may struggle to repay. In this situation, the financial institution prioritizes having a smaller but more reliable clientele, even if it results in denying credit to some creditworthy clients. In such cases, achieving good precision (specificity) is considered.
-+ 
 ## Best Model
 + After analyzing the ROC curve and recall of all the trained models, it is apparent that our best-performing model is Gradient Boosting with accuracy 88.48
 
