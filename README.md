@@ -1,4 +1,4 @@
-# Credit Cracker: Demystifying the Approval Process
+# Deploy_predict_credit_card_approval_app
 In today's digital age, access to credit is crucial, but manually analyzing credit card applications can be time-consuming and error-prone. In this project, I used machine learning to build a model that predicts credit card approval with high accuracy, potentially helping lenders make faster and more informed decisions."
 
 ## Goals and Approach:
