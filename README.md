@@ -7,7 +7,7 @@ My goal is to build a model that could predict whether an applicant would be app
 ## Achievements and Challenges:
 One key finding from my data analysis was that annual income, employment duration, Age, and family members were the most important features for predicting approval. I used techniques like SMOTE to address imbalanced data, where applicants with high risk were much fewer. Interestingly, during the economic recession, prioritizing recall (catching good applicants) was more important than precision (avoiding bad applicants), so I chose Gradient Boosting as the best model based on its recall score."
 ## Impact and Skills:
-My model achieved an accuracy of 88.48%, potentially improving lenders' ability to assess creditworthiness efficiently. This project allowed me to showcase my skills in data analysis, machine learning, and feature engineering. "
+This model achieved an accuracy of 88.48%, potentially improving lenders' ability to assess creditworthiness efficiently. This project allowed me to showcase my skills in data analysis, machine learning, and feature engineering. "
 
 ![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/Capture1.PNG)
 ![Alt text](https://github.com/dsml917/Deploy_predict_credit_card_approval_app/blob/main/Images/Capture2.PNG)
