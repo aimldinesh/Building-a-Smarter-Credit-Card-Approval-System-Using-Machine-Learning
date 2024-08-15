@@ -1,5 +1,5 @@
 # Building-a-Smarter-Credit-Card-Approval-System-Using-Machine-Learning
-In today's digital age, access to credit is crucial, but manually analyzing credit card applications can be time-consuming and error-prone. In this project, I used machine learning to build a model that predicts credit card approval with high accuracy, potentially helping lenders make faster and more informed decisions."
+In today's digital age, access to credit is crucial, but manually analyzing credit card applications can be time-consuming and error-prone. In this project, I used machine learning to build a model that predicts credit card approval with high accuracy, potentially helping lenders make faster and more informed decisions.
 
 ## Goals and Approach:
 My goal is to build a model that could predict whether an applicant would be approved for a credit card based on their data. I started by exploring the data, and identifying patterns and trends. Then, I preprocessed the data by handling missing values, and outliers, and performing necessary transformations. Next, I trained various machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting. Finally, I evaluated the models based on their performance metrics and selected the best one."
