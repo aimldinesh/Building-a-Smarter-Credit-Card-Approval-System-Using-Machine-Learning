@@ -247,6 +247,7 @@ Min-Max Scaling:
 + Scikit-learn
 + NumPy
 + Pandas
++ Matplotlib
 + Streamlit Share
 + Render
 
