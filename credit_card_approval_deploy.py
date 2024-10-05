@@ -35,7 +35,7 @@ class Handle_Missing_Values(BaseEstimator, TransformerMixin):
         self.numerical_cols = numerical_cols
     
     def fit(self, df):
-        # Store the mode for categorical columns and the mean for numerical columns
+        # Here Store the mode for categorical columns and the mean for numerical columns
         self.imputation_values = {}
         for col in self.categorical_cols:
             self.imputation_values[col] = df[col].mode()[0]
