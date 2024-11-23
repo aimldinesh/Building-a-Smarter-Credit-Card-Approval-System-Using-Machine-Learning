@@ -248,6 +248,7 @@ Min-Max Scaling:
 + NumPy
 + Pandas
 + Matplotlib
++ Stremlit Share
 + Streamlit Share
 + Render
 
