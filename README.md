@@ -1,4 +1,15 @@
-# Building-a-Smarter-Credit-Card-Approval-System-Using-Machine-Learning
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikit-learn)
+  ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+  ![Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue?logo=render)
+  ![Deployment](https://img.shields.io/badge/Deployed%20on-Streamlit%20Cloud-red?logo=streamlit)
+
+</div>
+
+# Predicting Credit Card Approval with Machine Learning | Streamlit App + Gradient Boosting
 In today's digital age, access to credit is crucial, but manually analyzing credit card applications can be time-consuming and error-prone. In this project, I used machine learning to build a model that predicts credit card approval with high accuracy, potentially helping lenders make faster and more informed decisions.
 
 ## Goals and Approach:
@@ -248,7 +259,7 @@ Min-Max Scaling:
 + NumPy
 + Pandas
 + Matplotlib
-+ Stremlit Share
++ Streamlit
 + Streamlit Share
 + Render
 
